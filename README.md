@@ -1,1 +1,1 @@
-[[https://github.com/AlamsyArief/RoadMap_Learning/tree/1611d35673c2aefdf29e761d78d3b1e2dcba86e7/Single-Page%20CV](https://roadmap.sh/projects/single-page-cv)](https://roadmap.sh/projects/single-page-cv)
+https://roadmap.sh/projects/single-page-cv
